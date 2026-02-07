@@ -21,5 +21,4 @@ To run this project locally:
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/MathWhiz.git](https://github.com/YOUR_USERNAME/MathWhiz.git)
-   cd MathWhiz
+   git clone [https://github.com/umer1556/mathwhiz-gradio-groq.git]
