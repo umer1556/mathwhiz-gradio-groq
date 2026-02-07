@@ -23,4 +23,4 @@ To run this project locally:
    ```bash
    git clone [https://github.com/umer1556/mathwhiz-gradio-groq.git]
    
-This project was developed during Module 2 of the HEC Generative AI Training (Cohort 2) organized by Pak Angels.
+This project was developed during Module 3 of the HEC Generative AI Training (Cohort 2) organized by Pak Angels.
